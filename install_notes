@@ -3,3 +3,33 @@
 Author By  : Rajesh
 Created    : March - 2018
 --- */
+
+Interpreted & Complier
+
+Interpreted - Line by line code execute that had found error exit code.
+
+Complier - Once run entire program then will show all error to user.
+
+High level language  = > English or high level language to converted low level language in the machine language 0 or 1.
+
+procedure language and oops
+
+procedure language code run step by step code will make it reused.
+
+/* Install command python for mac system */
+
+  brew install python3 , python2 ..
+
+* Once install python check CLI - pyhthon
+
+      Python 2.7.10 (default, Jul 15 2017, 17:16:57) 
+      [GCC 4.2.1 Compatible Apple LLVM 9.0.0 (clang-900.0.31)] on darwin
+      Type "help", "copyright", "credits" or "license" for more information.
+      >>>
+
+* Modules install 
+      >>>import matplotlib
+      - Wheather check not install throw error, So install line
+ 
+  sudo pip install numpy      // numpy module
+  sudo pip install matplotlib // Matplotlib
