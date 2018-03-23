@@ -29,7 +29,7 @@ procedure language code run step by step code will make it reused.
 
 * Modules install 
       >>>import matplotlib
-      - Wheather check not install throw error, So install line
+      - Wheather check not install throw error, So install below line
  
   sudo pip install numpy      // numpy module
   sudo pip install matplotlib // Matplotlib
