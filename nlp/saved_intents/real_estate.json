@@ -1,0 +1,30 @@
+{"intents": [
+        {
+        "tag": "apartments_2863",
+        "patterns": ["Do you sell Apartment type properties?","I am looking for a home in apartments?","I am planning to buy apartment type property?","I need to purchase a home in apartments?","Show me apartments having houses?"]
+        },
+        {"tag": "3_beds_apartment_2864",
+         "patterns": ["Do you sell 3 beds apartment?","I want to buy 3 beds apartment","I need 3 beds apartment type home?","I am looking for a apartment with 3 BHK?"]
+        },
+        {"tag": "2_beds_apartment_2865",
+         "patterns": ["Do you sell 2 beds apartment?","I need 2 beds apartment type home?","I want to buy 2 beds apartment","I am looking for a apartment with 2 BHK?","Show me houses in 2 BHK?","Do you have apartments with 2 beds and 2 baths?"]
+        },
+        {"tag": "farm_house_2866",
+         "patterns": ["Do you sell Farm house?","I am planning to buy farm house?","Show me farm houses you have?","I want to purchase farm house?"]
+        },
+        {"tag": "individual_house_2867",
+         "patterns": ["Do you sell individual house?","Do you have independent house?","I am looking for an independent house?","I am planning to buy a individual house","Suggest me some good independent houses ?"]
+        },
+        {"tag": "contact_us_2868",
+         "patterns": ["how can I make a purchase?","How can i contact you?","I like this property, how I can buy this?","How I can buy this property?","I want to see this property directly? Help me ?","Please give your contact information to discuss in detail?","Where I can discuss about this property?","with whom I can negotiate?","How can I reach you guys?"]
+        },
+        {"tag": "private_ranch_farm_feature_2869",
+         "patterns": ["What are the features of Luxurious Private Ranch farm?","Luxurious Private Ranch farm amenities?","What does Luxurious Private Ranch farm has?","Tell me about  Luxurious Private Ranch farm features?"]
+        },
+        {"tag": "price_of_private_ranch_farm_2870",
+         "patterns": ["What is the price of the Luxurious Private Ranch farm?","How much is Luxurious Private Ranch farm?","Luxurious Private Ranch farm Price?","Price of Luxurious Private Ranch farm?"]
+        }
+   ]
+}
+
+
